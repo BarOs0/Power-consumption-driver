@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9d9095d3-7ae2-4b4c-b3bd-c07e56531a06")
+	(paper "A4")
+	(title_block
+		(title "Power consumption driver ")
+		(date "25.11.2025")
+		(rev "5")
+		(company "AGH University of Krakow")
+	)
+	(lib_symbols)
+)

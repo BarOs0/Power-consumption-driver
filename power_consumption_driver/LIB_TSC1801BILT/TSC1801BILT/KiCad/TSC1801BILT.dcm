@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSC1801BILT
+D Bidirectional low-side current sensing amplifier
+K
+F https://www.st.com/resource/en/datasheet/tsc1801.pdf
+$ENDCMP
+#
+#End Doc Library

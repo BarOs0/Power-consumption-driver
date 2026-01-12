@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "355ff828-01e8-4221-a90a-534535988142")
+	(paper "A4")
+	(title_block
+		(title "Power consumbtion driver F334R8")
+		(date "25.11.2025")
+		(rev "3")
+		(company "AGH University of Krakow")
+	)
+	(lib_symbols)
+)

@@ -1,0 +1,16 @@
+.TSC1801BILT :1 ;Bidirectional low-side current sensing amplifier
+SOT95P280X145-6N
+*STM IC
+*NGS
+*PLB 1="VREF" 2="VCC-" 3="VCC+" 4="IN+" 5="IN-" 6="OUT"
+*MXP 6
+*DFN TSC1801BILT
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (TSC1801BILT)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/tsc1801.pdf)
+~!Height (1.45mm)
+~!3D_Model (TSC1801BILT)
+TSC1801BILT
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

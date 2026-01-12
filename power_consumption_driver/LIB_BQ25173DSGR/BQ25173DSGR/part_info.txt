@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=BQ25173DSGR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=1.1
+Released=2022-06-10 06:49:01
+Downloaded=2025-11-22 22:25:57
+3D=Y
